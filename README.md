@@ -1,3 +1,5 @@
+[adsahay: This fork simply wraps everything in anonymous function so that it can be easily combined with other scripts]
+
 # Tracking Events and Pageviews with Segment.io (http://segment.io)
 
 ## How-to use it?
