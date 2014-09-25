@@ -47,7 +47,7 @@
           script.type = 'text/javascript';
           script.id = 'analytics-js';
           script.async = true;
-          var scheme = window.cordova ? 'https' : '';
+          var scheme = window.cordova ? 'https:' : '';
           script.src = scheme + '//cdn.segment.io/analytics.js/v1/' + key + '/analytics.min.js';
 
           script.onload = script.onreadystatechange = function () {
